@@ -18,3 +18,7 @@ int main()
     cout<<longestsubarray(a);
     return 0;
 }
+
+class Yuvrani
+{
+}
